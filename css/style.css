@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+hr {
+  border: dotted 7px #fa58b6;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 30px;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  color: #fa58b6;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #fa58b6;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #fa58b6;
+  font-weight: normal;
+}
+.top-container {
+  background-color: #cfffdc;
+  position: relative;
+  padding-top: 60px;
+  width: 100%;
+}
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 100px;
+}
+.bot-cloud {
+  position: absolute;
+  right: 80%;
+}
+.first-head {
+  margin-top: 0;
+}
+.middle-container {
+  margin-top: 70px;
+}
+.profile {
+  width: 50%;
+  line-height: 2;
+  margin: auto;
+}
+.intro {
+  width: 50%;
+  margin: auto;
+}
+.first-hr {
+  margin: 70px auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.math {
+  float: left;
+  margin-right: 30px;
+}
+.program {
+  float: right;
+  margin-left: 30px;
+}
+.second-hr {
+  margin: 0 auto 70px;
+}
+.bottom-container {
+  background-color: #a9ffec;
+  height: 30%;
+  text-align: center;
+  margin: 40px auto 0;
+  position: relative;
+  padding: 30px 0 10px;
+}
+.bottom-container a {
+  padding: 0 50px;
+  text-decoration: none;
+  color: #FA4EAB;
+}
+.bottom-container p {
+  /* margin: 30px auto 0; */
+  padding-top: 23px;
+  font-family: "Merriweather", serif;
+  font-size: 0.75rem;
+  color: #FA4EAB;
+}
+button {
+  background: linear-gradient(#FA4EAB, #742966);
+  height: 50px;
+  width: 150px;
+  border-style: none;
+  margin: 30px auto 20px;
+  border-radius: 6px;
+  font-family: "Merriweather", serif;
+  font-size: 1rem;
+  font-weight: normal;
+}
+button a {
+  text-decoration: none;
+  color: #cfffdc;
+}
+button:hover {
+  background: linear-gradient(#FC28FB, #c54a9c);
+}
+.footer-link:hover{
+  color: #179c9c;
+}

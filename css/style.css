@@ -114,6 +114,7 @@ button a {
 }
 button:hover {
   background: linear-gradient(#FC28FB, #c54a9c);
+  cursor: pointer;
 }
 .footer-link:hover{
   color: #179c9c;

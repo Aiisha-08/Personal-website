@@ -78,7 +78,7 @@ h3 {
   margin: 0 auto 70px;
 }
 .bottom-container {
-  background-color: #a9ffec;
+  background-color: #86C8BC;
   height: 30%;
   text-align: center;
   margin: 40px auto 0;
@@ -95,7 +95,7 @@ h3 {
   padding-top: 23px;
   font-family: "Merriweather", serif;
   font-size: 0.75rem;
-  color: #FA4EAB;
+  color: #742966;
 }
 button {
   background: linear-gradient(#FA4EAB, #742966);
@@ -117,5 +117,5 @@ button:hover {
   cursor: pointer;
 }
 .footer-link:hover{
-  color: #179c9c;
+  color: #742966;
 }

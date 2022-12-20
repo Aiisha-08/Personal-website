@@ -88,7 +88,7 @@ h3 {
 .bottom-container a {
   padding: 0 50px;
   text-decoration: none;
-  color: #FA4EAB;
+  color: #742966;
 }
 .bottom-container p {
   /* margin: 30px auto 0; */
@@ -117,5 +117,5 @@ button:hover {
   cursor: pointer;
 }
 .footer-link:hover{
-  color: #742966;
+  color: #66245a;
 }
